@@ -157,6 +157,7 @@ module = [
     "iminuit.*",
     "mplhep.*",
     "dask_histogram.*",
+    "graphed_histogram.*",
 ]
 ignore_missing_imports = true
 
